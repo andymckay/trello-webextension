@@ -19,4 +19,9 @@
     text-shadow: rgba(0, 0, 0, .1) 0 0 5px, rgba(0, 0, 0, .2) 0 0 2px;
     width: auto!important;
     display: inline!important;
+    text-overflow: inherit!important;
+}
+
+.card-label.mod-card-front {
+    max-width: none!important;
 }
